@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: mycontainerregistry.azurecr.io/my-node-app:v1
+          image: mycontainerregistry7.azurecr.io/my-node-app:v1
           ports:
             - containerPort: 3000
 ---
